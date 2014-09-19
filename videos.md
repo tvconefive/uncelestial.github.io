@@ -6,4 +6,5 @@ title: Videos
 
 - Recording
 - Live
+- Interview
 - Fan Submitted
