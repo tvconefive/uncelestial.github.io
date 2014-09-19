@@ -5,7 +5,6 @@ title: Home Page
 # Welcome
 
 - Explain sections of site and link to them
-- [About](/about), [Store](/store), [Discography](/discography), [Philosophy](/philosophy), [Shows](/shows)
 
 # News
 
