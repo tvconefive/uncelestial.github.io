@@ -1,5 +1,6 @@
 ---
 title: Store
+description: Because even GY!BE sells t-shirts. 
 ---
 
 # Store
