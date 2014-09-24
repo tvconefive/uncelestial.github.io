@@ -32,22 +32,44 @@
 				<nav id="nav">
 					<ul>
 						<li><a href="/">Home</a></li>
-						<li><a href="/">Home</a></li>
-						<li><a href="/">Home</a></li>
-						<li><a href="/">Home</a></li>
+						<li><a href="/about">About</a></li>
+						<li><a href="/store">Store</a></li>
+						<li><a href="/discography">Discography</a></li>
+						<li><a href="/pictures">Pictures</a></li>
+						<li><a href="/videos">Videos</a></li>
+						<li><a href="/shows">Shows</a></li>
+						<li><a href="/contact">Contact</a></li>
 					</ul>
 				</nav>
 			</header>
 
 		<!-- Banner -->
+		{% if page.banner %}
 			<section id="banner">
-				<h2>Alpha</h2>
-				<p>Another fine responsive site template freebie by HTML5 UP.</p>
+				<h2>{{ page.title }}</h2>
+				<p>{{ page.banner }}</p>
 				<ul class="actions">
-					<li><a href="#" class="button special">Sign Up</a></li>
-					<li><a href="#" class="button">Learn More</a></li>
+					{% if page.action1 %}<li><a href="{{ page.action1link }}" class="button special">{{ page.action1text }}</a></li>{% endif %}
+					{% if page.action2 %}<li><a href="{{ page.action2link }}" class="button">{{ page.action1text</a></li>{% endif %}
 				</ul>
 			</section>
-
+		{% endif %}
 		<!-- Main -->
 			<section id="main" class="container">
+			{{ content }}
+			</section>
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Uncelestial. </li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</footer>
+
+	</body>
+</html></html>
