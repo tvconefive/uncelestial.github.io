@@ -94,10 +94,10 @@ In summary:
 in the mainstream now. I also feel that rock has stagnated due to less risk
 taking by non-creative market-makers, and because of puritan attitudes of old guard
 rock musicians who fetishize an outdated aesthetic and music-making process.
-Hence, my music.
+Hence, my music and my process.
 
 - I reject that the old marketplace was the ideal situation for musicians and we
 should pine for it and rebuild it. I also feel there are novel approaches to doing
 this whole music thing that haven't been explored, and there could be a greater gain
-to be had in the wider participation and intense interactivity that is only possible
-now. Hence, the open source music project.
+to be had in the low-barrier, interactive world that we live in now. Hence, the open
+source music project.
