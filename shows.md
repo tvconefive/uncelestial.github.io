@@ -1,6 +1,6 @@
 ---
 title: Shows
-description: Come watch us unleash the butt!
+description: Allow us to infiltrate yr brainz with pro-us propaganda.
 ---
 
 # Shows
