@@ -51,6 +51,7 @@
 					{% if page.description %}<p>{{ page.description }}</p>{% endif %}
 				</header>
 				<div class="box">
+				{% if page.image %}<span class="image featured"><img src="{{ page.image }}" /></span>{% endif %}
 				<p>{{ content }}</p>
 				</div>
 			</section>
