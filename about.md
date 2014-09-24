@@ -37,7 +37,9 @@ others, so it's not going to be tolerated here.
 If the adoption of some "Open Source"  and the use of GitHub didn't clue you
 in, we are not exactly the sort of band that fetishizes analog as an ideal. "Warm"
 guitar tones can be recorded digitally, emanating from a solid state amp. Altering
-one's voice is a valid artistic choice -- it's just an effect.
+one's voice is a valid artistic choice -- it's just an effect. VST plugins are
+fantastic tools and frankly the analog machines they replace have diminishing
+returns for the huge investment that is required to use them.
 
 One should feel no guilt augmenting what they do with technology -- in fact,
 that can be a source of great creativity.
