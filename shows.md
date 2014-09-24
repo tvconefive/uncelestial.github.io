@@ -1,5 +1,6 @@
 ---
 title: Shows
+description: Come watch us unleash the butt!
 ---
 
 # Shows
