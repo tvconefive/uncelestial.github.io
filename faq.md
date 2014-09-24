@@ -1,6 +1,6 @@
 ---
 title: FAQ (Fan-Asked Questions)
-description: Maybe this will get me out of having to do interviews.
+description: Maybe this will get me out of having to do interviews. Got one? Ask it on Twitter [@uncelestial](http://www.twitter.com/uncelestial).
 ---
 
 ## FAQ (Fan-Asked Questions)
