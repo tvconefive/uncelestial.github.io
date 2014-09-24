@@ -1,5 +1,6 @@
 ---
 title: Discography
+description: "Note to self: Release more music before creating discography page."
 ---
 
 # Discography
