@@ -97,7 +97,7 @@ rock musicians who fetishize an outdated aesthetic and music-making process.
 Hence, my music and my process.
 
 - I reject that the old marketplace was the ideal situation for musicians and we
-should pine for it and rebuild it. I also feel there are novel approaches to doing
-this whole music thing that haven't been explored, and there could be a greater gain
-to be had in the low-barrier, interactive world that we live in now. Hence, the open
-source music project.
+should pine for it and rebuild it. I also feel there are novel approaches to sharing
+your music with the world that haven't been explored, and there could be a greater gain
+to be had in the cheap-to-join, interactive musical world that we live in now.
+Hence, the open source music project.
