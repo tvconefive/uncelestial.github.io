@@ -1,0 +1,11 @@
+		<!-- Banner -->
+		{% if page.banner %}
+			<section id="banner">
+				<h2>{{ page.title }}</h2>
+				<p>{{ page.banner }}</p>
+				<ul class="actions">
+					{% if page.action1link %}<li><a href="{{ page.action1link }}" class="button special">{{ page.action1text }}</a></li>{% endif %}
+					{% if page.action2link %}<li><a href="{{ page.action2link }}" class="button">{{ page.action1text</a></li>{% endif %}
+				</ul>
+			</section>
+		{% endif %}
