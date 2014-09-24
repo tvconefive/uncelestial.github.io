@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Home
 description: If we lived here you'd be home by now. 
 ---
 
