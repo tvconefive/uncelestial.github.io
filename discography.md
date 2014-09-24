@@ -3,7 +3,7 @@ title: Discography
 description: "Note to self: Release more music before creating discography page."
 ---
 
-# Discography
+## Discography
 
 One long page with jQuery UI for cycling through a release's:
 
