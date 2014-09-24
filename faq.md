@@ -1,11 +1,11 @@
 ---
-title: FAQ (Fan-Asked Questions)
-description: Maybe this will get me out of having to do interviews. Got one? Ask it on Twitter [@uncelestial](http://www.twitter.com/uncelestial).
+title: FAQ
+description: Maybe this will get me out of having to do interviews. 
 ---
 
 ## FAQ (Fan-Asked Questions)
 
-Here is an archive of fan-asked questions and their answers. 
+Here is an archive of fan-asked questions and their answers. Got one? Ask it on Twitter [@uncelestial](http://www.twitter.com/uncelestial).
 
 ### Uncelestial. Why so many syllables?
 
