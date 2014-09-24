@@ -46,7 +46,13 @@
 
 		<!-- Main -->
 			<section id="main" class="container">
-			{{ content }}
+				<header>
+					<h2>{{ page.title }}</h2>
+					{% if page.description %}<p>{{ page.description }}</p>{% endif %}
+				</header>
+				<div class="box">
+				{{ content }}
+				</div>
 			</section>
 
 		<!-- Footer -->
