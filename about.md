@@ -23,7 +23,7 @@ description: Because you're probably dying to know.
 
 ## Open-Source
 
-- That too
+`That too`
 
 ## Tech is Good
 
