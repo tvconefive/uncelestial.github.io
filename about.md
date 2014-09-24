@@ -1,5 +1,6 @@
 ---
 title: About Uncelestial
+description: Because you're probably dying to know.
 ---
 
 # Early Musical Life
