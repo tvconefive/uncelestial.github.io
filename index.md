@@ -1,5 +1,6 @@
 ---
 title: Home Page
+description: If we lived here you'd be home by now. 
 ---
 
 # Welcome
