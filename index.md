@@ -15,4 +15,4 @@ title: Home Page
 - Like on FB
 - Follow on Twitter
 - Twitter Feed
-
+- If there even needs to be a right-hand column? Lol.
