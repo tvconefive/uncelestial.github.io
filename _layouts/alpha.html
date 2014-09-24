@@ -43,21 +43,13 @@
 				</nav>
 			</header>
 
-		<!-- Banner -->
-		{% if page.banner %}
-			<section id="banner">
-				<h2>{{ page.title }}</h2>
-				<p>{{ page.banner }}</p>
-				<ul class="actions">
-					{% if page.action1 %}<li><a href="{{ page.action1link }}" class="button special">{{ page.action1text }}</a></li>{% endif %}
-					{% if page.action2 %}<li><a href="{{ page.action2link }}" class="button">{{ page.action1text</a></li>{% endif %}
-				</ul>
-			</section>
-		{% endif %}
+
 		<!-- Main -->
 			<section id="main" class="container">
 			{{ content }}
 			</section>
+
+		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
 					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
@@ -72,4 +64,4 @@
 			</footer>
 
 	</body>
-</html></html>
+</html>
