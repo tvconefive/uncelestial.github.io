@@ -1,5 +1,6 @@
 ---
 title: Pictures
+description: Because all band sites seem to have a picture page.
 ---
 
 # Pictures
