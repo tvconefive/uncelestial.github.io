@@ -1,5 +1,6 @@
 ---
 title: Contact
+description: Relevant to 0.02% of site visitors and 100% of spambots.
 ---
 
 # Contact
