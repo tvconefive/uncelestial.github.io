@@ -22,8 +22,8 @@ description: Because you're probably dying to know.
 > "At this point I have a request for our fans.  If any of you in any way hate 
 > homosexuals, people of different color, or women, please do this one favor
 > for us -- leave us the fuck alone!  Don't come to our shows and don't buy our records."
-
--- Kurt Cobain, from the liner notes to the great *Incesticide*.
+>
+> -- Kurt Cobain, from the liner notes to the great *Incesticide*.
 
 I couldn't put it any better myself, except to add many attributes that weren't
 explicitly mentioned. Operate from a place of empathy or leave us alone. Discussions
