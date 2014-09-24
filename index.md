@@ -1,6 +1,7 @@
 ---
 title: Home
 description: If we lived here you'd be home by now. 
+image: "/images/pic01.jpg"
 ---
 
 # Welcome
