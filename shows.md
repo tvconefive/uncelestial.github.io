@@ -1,6 +1,6 @@
 ---
 title: Shows
-description: Allow us to infiltrate yr brainz with pro-us propaganda.
+description: Allow us to infiltrate yr brainz with pro-us propaganda, live!
 ---
 
 # Shows
