@@ -10,15 +10,4 @@ description: Because all band sites seem to have a picture page.
 - http://www.twospy.com/galleriffic/
 - http://www.hongkiat.com/blog/jquery-image-galleries-sliders-best-of/
 
-<table style="width:194px;">
-<tr>
-<td align="center" style="height:194px;background:url(https://www.gstatic.com/pwa/s/v/lighthousefe_20140824.00_p3/transparent_album_background.gif) no-repeat left">
-<a href="https://picasaweb.google.com/116689041681801091929/ProfilePhotos?authuser=0&feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-ah8DMQfd4i8/ThOcxsWHfqE/AAAAAAAAAak/NYLdM9dPpSs/s160-c/ProfilePhotos.jpg" width="160" height="160" style="margin:1px 0 0 4px;"></a>
-</td>
-</tr>
-<tr>
-<td style="text-align:center;font-family:arial,sans-serif;font-size:11px">
-<a href="https://picasaweb.google.com/116689041681801091929/ProfilePhotos?authuser=0&feat=embedwebsite" style="color:#4D4D4D;font-weight:bold;text-decoration:none;">Profile Photos</a>
-</td>
-</tr>
-</table>
+<embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="288" height="192" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F116689041681801091929%2Falbumid%2F5626012737047330465%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
