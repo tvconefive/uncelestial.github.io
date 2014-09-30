@@ -11,4 +11,4 @@ description: Because all band sites seem to have a picture page.
 - http://www.hongkiat.com/blog/jquery-image-galleries-sliders-best-of/
 
 <!-- www.intagme.com -->
-<iframe src="http://www.intagme.com/in/?u=dW5jZWxlc3RpYWx8aW58MTAwfDV8M3x8eWVzfDV8dW5kZWZpbmVkfHllcw==" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:575px; height: 345px" ></iframe>
+<iframe src="http://www.intagme.com/in/?u=dW5jZWxlc3RpYWx8aW58MTAwfDd8N3x8eWVzfDV8dW5kZWZpbmVkfHllcw==" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:805px; height: 805px" ></iframe>
