@@ -1,5 +1,6 @@
 ---
 title: Search
+description: I mean it's so important that you would be able to search. So important.
 ---
 
 ## Search the site
