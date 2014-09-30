@@ -5,6 +5,11 @@ description: I mean it's so important that you would be able to search. So impor
 
 ## Search the site
 
+<style>
+table, tr, td, th {
+  border: 0px;
+}
+</style>
 <script>
   (function() {
     var cx = '013467772795878830775:fvyz4h0w3lm';
