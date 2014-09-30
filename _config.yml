@@ -12,5 +12,11 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "alpha"
+  -
+    scope:
+      path: ""
+      type: "post"
+    value:
+      layout: "blog"
 
 permalink: pretty
