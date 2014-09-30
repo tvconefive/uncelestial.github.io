@@ -1,5 +1,6 @@
 ---
 title: Testing the blog
+layout: blog
 ---
 
 This blog post is just trying out the whole "blog" functionality that is 
