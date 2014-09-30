@@ -22,7 +22,7 @@ function parseRSS(url, callback) {
       if (data.responseData.feed.entries.length<5) feedLimit = data.responseData.feed.entries.length;
       for(i=0;i<feedLimit;i++) {
         console.log(data.responseData.feed.entries[i].content)
-        var header = $('<h2 class="newstitle"></h2>').html('<a href="'+ data.responseData.feed.entries[i].link +'">');
+        var header = $('<h2 class="newstitle"></h2>').html('<a href="'+ data.responseData.feed.entries[i].link +'">'+ data.responseData.feed.entries[i].title +'</a>');
         var content = $('<div class="newscontent"></div>').html(data.responseData.feed.entries[i].content);
         $("#newsitems").append(content,header);
       }
