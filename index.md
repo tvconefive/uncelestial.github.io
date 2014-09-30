@@ -26,7 +26,7 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
   });
 }
 $(document).ready(function(){
-  parseRSS("http://uncelestial.67314.x6.nabble.com/News-ft2.xml")
+  parseRSS("//uncelestial.67314.x6.nabble.com/News-ft2.xml")
 });
 </script>
 <div id="newsitems">
