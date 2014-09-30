@@ -21,7 +21,7 @@ function parseRSS(url, callback) {
       var feedLimit = 5;
       if (data.responseData.feed.entries.length<5) feedLimit = data.responseData.feed.entries.length;
       for(i=0;i<feedLimit;i++) {
-        $("#newsitems").append('<h2><a href="'+ data.responseData.feed.entries[i].link +'">' + data.responseData.feed.entries[i].title + '</a></h2><p>' + data.responseData.feed.entries[i].content + '</p>');
+        $("#newsitems").append('<h2 class="newstitle"><a href="'+ data.responseData.feed.entries[i].link +'">' + data.responseData.feed.entries[i].title + '</a></h2><div class="newscontent">' + data.responseData.feed.entries[i].content + '</div>');
       }
     },
     cache: false
