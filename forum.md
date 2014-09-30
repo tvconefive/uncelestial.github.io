@@ -3,5 +3,4 @@ title: Forum
 ---
 <p>&nbsp;</p>
 
-<a id="nabblelink" href="http://uncelestial.67314.x6.nabble.com/">Uncelestial</a>
-<script src="http://uncelestial.67314.x6.nabble.com/embed/f1"></script>
+<script type="text/javascript" src="http://ei36cswzmy.embed.talkiforum.com/embed/1.js"></script><div style="font-size:80%; text-align:center;" id="ei36cswzmyt4lk1prm0">get your own <a href="http://talkiforum.com?utm_source=install&utm_medium=link&utm_campaign=get_your_own">embeddable forum</a> with Talki</div>
