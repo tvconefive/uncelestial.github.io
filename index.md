@@ -22,7 +22,9 @@ function parseRSS(url, callback) {
       if (data.responseData.feed.entries.length<5) feedLimit = data.responseData.feed.entries.length;
       for(i=0;i<feedLimit;i++) {
         console.log(data.responseData.feed.entries[i].content)
-        $("#newsitems").append('<h2 class="newstitle"><a href="'+ data.responseData.feed.entries[i].link +'">' + data.responseData.feed.entries[i].title + '</a></h2><div class="newscontent">' + data.responseData.feed.entries[i].content + '</div>');
+        var header = $('<h2 class="newstitle"></h2>').html('<a href="'+ data.responseData.feed.entries[i].link +'">');
+        var content = $('<div class="newscontent"></div>').html(data.responseData.feed.entries[i].content);
+        $("#newsitems").append(content,header);
       }
     },
     cache: false
