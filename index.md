@@ -25,7 +25,7 @@ Uncelestial is a band from San Francisco. This is their official site.
   });
 }
 $(document).ready(function(){
-  parseRSS("http://uncelestial.67314.x6.nabble.com/News-ft2.xml;cid=1412057808465-339")
+  parseRSS("http://uncelestial.67314.x6.nabble.com/News-ft2.xml")
 });
 </script>
 <div id="newsitems">
