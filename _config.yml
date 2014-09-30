@@ -9,14 +9,7 @@ baseurl: /
 defaults:
   -
     scope:
-      path: ""
-      type: "post"
-    value:
-      layout: "blog"
-  -
-    scope:
       path: "" # an empty string here means all files in the project
-      type: "pages"
     values:
       layout: "alpha"
 
