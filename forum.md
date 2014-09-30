@@ -1,6 +1,5 @@
 ---
 title: Forum
-description: A place to converse, not be terse or adverse
 ---
 ## Forum
 
