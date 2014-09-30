@@ -13,7 +13,6 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
 
 {% for post in site.posts %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<span style="font-size:8px">Posted: December 30, 2014; 19:30 GMT</span>
 <p>{{ post.excerpt }}</p>
-<p><a href="{{ post.url }}">Read more...</a></p>
+<p><a href="{{ post.url }}">Posted: December 30, 2014; 19:30 GMT | Read more...</a></p>
 {% endfor %}
