@@ -8,7 +8,8 @@ image: "/images/pic01.jpg"
 
 ## Welcome
 
-Uncelestial is a band from San Francisco. This is their official site. 
+Uncelestial is a band from San Francisco. This is their official site. If you're looking 
+to get acquainted quickly, try reading the [bio](/about) or watching some [videos](/videos).
 
 <script language="javascript">
   function parseRSS(url, callback) {
