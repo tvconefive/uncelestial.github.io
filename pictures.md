@@ -3,9 +3,13 @@ title: Pictures
 description: Because all band sites seem to have a picture page.
 ---
 
-## Official shots
+## Official Photo Albums
 
-## Wallpapers
+Coming soon!
+
+## Fan Photos
+
+Want to add something to the permanent collection? Let us know via [this form](https://docs.google.com/forms/d/1TI12r-L-9Vha2bnLbB9VJc8owg_xGVlVQDrCUTayHhM/viewform), or send a Pull Request on [GitHub](https://www.github.com/uncelestial/uncelestial.github.io)!
 
 ## Latest from [@uncelestial](http://instagram.com/uncelestial)  
 
