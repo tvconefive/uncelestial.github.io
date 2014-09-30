@@ -9,7 +9,9 @@ Coming soon!
 
 ## Fan Photos
 
-Want to add something to the permanent collection? Let us know via [this form](https://docs.google.com/forms/d/1TI12r-L-9Vha2bnLbB9VJc8owg_xGVlVQDrCUTayHhM/viewform), or send a Pull Request on [GitHub](https://www.github.com/uncelestial/uncelestial.github.io)!
+Want to add something to the permanent collection? Let us know via [this form](https://docs.google.com/forms/d/1TI12r-L-9Vha2bnLbB9VJc8owg_xGVlVQDrCUTayHhM/viewform), or send a pull request on [GitHub](https://www.github.com/uncelestial/uncelestial.github.io)!
+
+You can also tag Instagram photos with #uncelestial and they'll show up [below](#latest-tagged-uncelestial).
 
 ## Latest from [@uncelestial](http://instagram.com/uncelestial)  
 
