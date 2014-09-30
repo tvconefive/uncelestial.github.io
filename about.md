@@ -8,7 +8,6 @@ description: Because you're probably dying to know.
 - Started playing instruments at a young age
 - Missed Gen-X by a hair, but inspired
 - Got into tape labels
-- Mental illness
 
 ## Previous Projects
 
