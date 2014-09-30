@@ -28,7 +28,7 @@ function parseRSS(url, callback) {
   });
 }
 $(document).ready(function(){
-  parseRSS("http://uncelestial.67314.x6.nabble.com/News-ft2.xml")
+  parseRSS("http://uncelestial.67314.x6.nabble.com/News-ft2.xml;random1")
 });
 </script>
 <div id="newsitems">
