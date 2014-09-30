@@ -6,6 +6,10 @@ image: "/images/pic01.jpg"
 
 <!-- http://uncelestial.67314.x6.nabble.com/News-ft2.xml;cid=1412057808465-339 -->
 
+## Welcome
+
+Uncelestial is a band from San Francisco. This is their official site. 
+
 <script language="javascript">
   function parseRSS(url, callback) {
   $.ajax({
@@ -26,18 +30,3 @@ $(document).ready(function(){
 </script>
 <div id="newsitems">
 </div>
-
-# Welcome
-
-- Explain sections of site and link to them
-
-# News
-
-- Blog stream (collapsable past the first-newest thing)
-
-# Right-hand Column
-
-- Like on FB
-- Follow on Twitter
-- Twitter Feed
-- If there even needs to be a right-hand column? Lol.
