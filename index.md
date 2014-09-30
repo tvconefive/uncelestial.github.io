@@ -13,6 +13,7 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
 
 <script language="javascript">
   function parseRSS(url, callback) {
+  $.ajaxSetup({ cache: false });
   $.ajax({
     url: document.location.protocol + '//ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=10&callback=?&q=' + encodeURIComponent(url),
     dataType: 'json',
