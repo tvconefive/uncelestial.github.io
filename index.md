@@ -14,5 +14,5 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
 {% for post in site.posts %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 <p>{{ post.content }}</p>
-<p><a href="{{ post.url }}">Posted: {{ post.date | date: "%-d %B %Y" }}</a></p>
+<p><a href="{{ post.url }}#disqus_thread">Posted: {{ post.date | date: "%-d %B %Y" }}</a></p>
 {% endfor %}
