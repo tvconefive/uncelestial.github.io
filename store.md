@@ -28,6 +28,6 @@ That way you can link directly to one release's subsection but still do it all i
 - Physical copies too
 
 {% for release in site.data.discographymaster %}
-{% if release.cdbabywidget %}<div style="max-width:600px;max-height:785px;min-width:300px;"><div style="position: relative;height: 0;overflow: hidden;padding-bottom:100%; padding-top:200px;"><iframe name="album" style="position:absolute;top:0px;left:0px;width:100%;height:100%;border:0px;" src="http://widget.cdbaby.com/{{ release.cdbabywidget }}/album/light/opaque"></iframe></div></div>{% endif %}
+{% if release.cdbabywidget %}<div style="max-width:600px;max-height:645px;min-width:180px;"><div style="position: relative;height: 0;overflow: hidden;padding-bottom:100%;padding-top:30px;"><iframe name="square" style="position:absolute;top:0px;left:0px;width:100%;height:100%;border:0px;" src="http://widget.cdbaby.com/{{ release.cdbabywidget }}/square/light/opaque"></iframe></div></div>{% endif %}
 {% endfor %}
 
