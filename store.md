@@ -26,3 +26,7 @@ That way you can link directly to one release's subsection but still do it all i
 - Digital store with HD vids, 24-bit sound, mp3 version, FLAC version
 - Explain our no-stream policy
 - Physical copies too
+
+{% for release in site.data.discographymaster %}
+{{ release.title }}
+{% endfor %}
