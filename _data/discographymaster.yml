@@ -1,15 +1,15 @@
 - release:
-  - id: 01
-  - artist: "Terrene"
-  - title: "The Indifferent Universe"
-  - year: "2007 (CD Version), 2011 (Digital Version)"
-  - label: "Wax Orchard"
-  - producer: "Phil Ek, John Dylan"
+  id: 01
+  artist: "Terrene"
+  title: "The Indifferent Universe"
+  year: "2007 (CD Version), 2011 (Digital Version)"
+  label: "Wax Orchard"
+  producer: "Phil Ek, John Dylan"
 - release:
-  - id: 02
-  - artist: "Ocasek"
-  - title: "Cinematic 1996-1997"
-  - year: "2004"
-  - label: "Digitalis Industries"
-  - producer: "John Dylan, Brad Rose"
+  id: 02
+  artist: "Ocasek"
+  title: "Cinematic 1996-1997"
+  year: "2004"
+  label: "Digitalis Industries"
+  producer: "John Dylan, Brad Rose"
   
