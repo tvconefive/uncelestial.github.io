@@ -14,4 +14,11 @@
   label: "Digitalis Industries"
   producer: "John Dylan, Brad Rose"
   cdbabywidget: 22953ada-ae82-4a46-a8c2-ae7ad07a8d50
-  
+- release:
+  id: 03
+  artist: "Mars Accelerator"
+  title: "Clouds For Your Y-Axis"
+  year: "2009"
+  label: "Mars Accelerator"
+  producer: "Mars Accelerator"
+  cdbabywidget: d5032e79-1f65-4d10-a0e5-892e133b21d9
