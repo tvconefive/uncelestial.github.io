@@ -50,16 +50,16 @@ google.setOnLoadCallback(function() {
     font-family: Arial, sans-serif;
   }
   .gsc-tabHeader.gsc-tabhInactive {
-    border-color: #FF9900;
+    border-color: #FFFFFF;
     background-color: #FFFFFF;
   }
   .gsc-tabHeader.gsc-tabhActive {
-    border-color: #E9E9E9;
+    border-color: #FFFFFF;
     background-color: #E9E9E9;
     border-bottom-color: #FF9900
   }
   .gsc-tabsArea {
-    border-color: #FF9900;
+    border-color: #FFFFFF;
   }
   .gsc-webResult.gsc-result, .gsc-results .gsc-imageResult {
     border-color: #FFFFFF;
@@ -112,17 +112,17 @@ google.setOnLoadCallback(function() {
     border-color: #FFFFFF;
   }
   .gsc-results .gsc-cursor-box .gsc-cursor-page {
-    border-color: #E9E9E9;
+    border-color: #FFFFFF;
     background-color: #FFFFFF;
     color: #0000CC;
   }
   .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
-    border-color: #FF9900;
+    border-color: #FFFFFF;
     background-color: #FFFFFF;
     color: #0000CC;
   }
   .gsc-webResult.gsc-result.gsc-promotion {
-    border-color: #336699;
+    border-color: #FFFFFF;
     background-color: #FFFFFF;
   }
   .gsc-completion-title {
