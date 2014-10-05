@@ -22,4 +22,4 @@ table, tr, td, th {
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
+<gcse:searchresults-only></gcse:searchresults-only>
