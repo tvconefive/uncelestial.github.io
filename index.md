@@ -6,8 +6,13 @@ image: "/images/pic01.jpg"
 
 ## Welcome
 
+<div style="float:right">
+<a class="twitter-timeline" href="https://twitter.com/uncelestial" data-widget-id="518837278257336320">Tweets by @uncelestial</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
 Uncelestial is a band from San Francisco. This is their official site. If you're looking 
-to get acquainted quickly, try reading the [bio](/about) or watching some [videos](/videos).
+to get acquainted quickly, try reading the [bio](/about) or watching some [videos](/videos
 
 {% for post in site.posts %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
