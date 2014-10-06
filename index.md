@@ -11,7 +11,7 @@ image: "/images/pic01.jpg"
   float: right;
   padding-left: 20px;
 }
-@media screen and (max-width: 70px) {
+@media screen and (max-width: 700px) {
   #socialstuff {
     display: none;
   }
