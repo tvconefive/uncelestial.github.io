@@ -1,0 +1,10 @@
+#socialstuff {
+  float: right;
+  padding: 20px;
+  width: 162px;
+}
+@media screen and (max-width: 600px) {
+  #socialstuff {
+    display: none;
+  }
+}
