@@ -10,6 +10,7 @@ image: "/images/pic01.jpg"
 #socialstuff {
   float: right;
   padding-left: 20px;
+  width: 162px;
 }
 @media screen and (max-width: 700px) {
   #socialstuff {
