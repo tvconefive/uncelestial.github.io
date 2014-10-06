@@ -12,7 +12,7 @@ image: "/images/pic01.jpg"
   padding: 20px;
   width: 162px;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 480px) {
   #socialstuff {
     display: none;
   }
