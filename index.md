@@ -12,8 +12,7 @@ image: "/images/pic01.jpg"
 }
 @media screen and (max-width: 480px) {
   #socialstuff {
-    float: none;
-    width: 100%;
+    display: none;
   }
 }
 
