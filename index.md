@@ -6,19 +6,6 @@ image: "/images/pic01.jpg"
 
 ## Welcome
 
-<style>
-#socialstuff {
-  float: right;
-  padding: 20px;
-  width: 162px;
-}
-@media screen and (max-width: 480px) {
-  #socialstuff {
-    display: none;
-  }
-}
-
-</style>
 <div id="socialstuff">
 <p><a class="twitter-timeline" href="https://twitter.com/uncelestial" data-widget-id="518837278257336320">Tweets by @uncelestial</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
