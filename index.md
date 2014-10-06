@@ -9,8 +9,9 @@ image: "/images/pic01.jpg"
 <style>
 #socialstuff {
   float: right;
+  padding-left: 20px;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 70px) {
   #socialstuff {
     display: none;
   }
