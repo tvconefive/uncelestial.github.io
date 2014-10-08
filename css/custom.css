@@ -1,7 +1,7 @@
 #socialstuff {
   float: right;
   padding: 20px;
-  width: 162px;
+  width: 300px;
   list-style: none;
 }
 @media screen and (max-width: 600px) {
