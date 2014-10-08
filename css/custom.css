@@ -4,6 +4,9 @@
   width: 300px;
   list-style: none;
 }
+#socialstuff li {
+  width: 300px;
+}
 @media screen and (max-width: 600px) {
   #socialstuff {
     display: none;
