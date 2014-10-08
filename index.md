@@ -6,11 +6,10 @@ image: "/images/pic01.jpg"
 
 ## Welcome
 
+<iframe id="twitch" src="http://www.twitch.tv/uncelestial/embed" frameborder="0" scrolling="no"></iframe>
+<a href="http://twitch.tv/uncelestial"><img src="http://streambadge.com/twitch/light/uncelestial.png" width="300" height="64" alt="uncelestial's Streambadge"></a>
+
 <ul id="socialstuff">
-<li>
-<iframe src="http://www.twitch.tv/uncelestial/embed" frameborder="0" scrolling="no" height="378" width="620"></iframe><a href="http://www.twitch.tv/uncelestial?tt_medium=live_embed&tt_content=text_link" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px;text-decoration:underline;">Watch live video from Uncelestial on www.twitch.tv</a>
-</li>
-<li>
 <a class="twitter-timeline" href="https://twitter.com/uncelestial" data-widget-id="518837278257336320">Tweets by @uncelestial</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </li>
