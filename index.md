@@ -15,3 +15,13 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
 <p>{{ post.content }}</p>
 <p>Posted: {{ post.date | date: "%-d %B %Y" }} | <a href="{{ post.url }}#disqus_thread">comment_count</a></p>
 {% endfor %}
+
+<script type="text/javascript" src="http://uncelestial.tumblr.com/api/read/json"></script>
+<script language="javascript">
+$(document).ready(function(){
+  for(i=0;i<tumblr_api_read['posts'].length;i++){
+    document.write(tumblr_api_read['posts'][i]['url']);
+  }
+  
+});
+</script>
