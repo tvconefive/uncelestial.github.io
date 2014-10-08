@@ -21,7 +21,9 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
 $(document).ready(function(){
   var output = new Array();
   for(i=0;i<tumblr_api_read['posts'].length;i++){
-    output.push(tumblr_api_read['posts'][i]['url']);
+    output.push('<h2><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['regular-title'] + '</a></h2>');
+    output.push(tumblr_api_read['posts'][i]['regular-body']);
+    output.push('<p>Posted: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a></p>')
     $("#blogdiv").html(output.join("\n"));
   }
   
