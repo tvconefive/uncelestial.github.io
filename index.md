@@ -19,9 +19,12 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
 <script type="text/javascript" src="http://uncelestial.tumblr.com/api/read/json"></script>
 <script language="javascript">
 $(document).ready(function(){
+  var output = new Array();
   for(i=0;i<tumblr_api_read['posts'].length;i++){
-    document.write(tumblr_api_read['posts'][i]['url']);
+    output.push(tumblr_api_read['posts'][i]['url']);
+    $("#blogdiv").html(output.join("\n"));
   }
   
 });
 </script>
+<div id="blogdiv"></div>
