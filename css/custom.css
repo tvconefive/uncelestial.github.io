@@ -1,8 +1,10 @@
 #socialstuff {
-  float: right;
   padding: 20px;
   width: 300px;
   list-style: none;
+}
+#socialcontainer {
+  float: right;
   min-height: 941px;
 }
 #socialstuff li {
