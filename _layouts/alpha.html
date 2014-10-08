@@ -69,6 +69,7 @@
 				<div class="box">
 				{% if page.image %}<span class="image featured"><img src="{{ page.image }}" /></span>{% endif %}
 				{% if page.social %}
+				<div id="socialcontainer">
 				<ul id="socialstuff">
 				<li class="socialheader">Watch our live stream on Twitch</li>
 				<li class="socialdescription">Sometimes it's a live show, sometimes a rehearsal, sometimes it's just John playing games and chatting with you.</li></li>
@@ -89,6 +90,7 @@
 					<div class="fb-like-box" data-href="https://www.facebook.com/uncelestial" data-width="300" data-height="300" data-colorscheme="light" data-show-faces="false" data-header="true" data-stream="true" data-show-border="false"></div>
 				</li>
 				</ul>
+				</div>
 				{% endif %}
 				<p>{{ content }}</p>
 				</div>
