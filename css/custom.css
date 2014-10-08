@@ -4,13 +4,8 @@
   width: 162px;
   list-style: none;
 }
-#twitch {
-  float: right;
-  padding: 20px;
-  width: 320px;
-}
 @media screen and (max-width: 600px) {
-  #socialstuff, #twitch {
+  #socialstuff {
     display: none;
   }
 }
