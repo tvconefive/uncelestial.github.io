@@ -13,11 +13,12 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
 <script type="text/javascript" src="http://uncelestial.tumblr.com/api/read/json"></script>
 <script language="javascript">
 $(document).ready(function(){
+  <a class="post_control reblog" target="_blank" title="Reblog" href="/reblog/99470949970/Fs6EQBgU?redirect_to=%2Fblog%2Funcelestial" data-subview="reblog"><span class="offscreen">Reblog</span></a>
   var output = new Array();
   for(i=0;i<tumblr_api_read['posts'].length;i++){
     output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['regular-title'] + '</a></h3>');
     output.push(tumblr_api_read['posts'][i]['regular-body']);
-    output.push('<p style="font-size: 14px">Posted to <a href="http://uncelestial.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/uncelestial">Follow on Tumblr</a></p>')
+    output.push('<p style="font-size: 14px">Posted to <a href="http://uncelestial.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/uncelestial">Follow on Tumblr</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + ''?redirect_to=%2Fblog%2Funcelestial">Reblog Post</a></p>')
     $("#blogdiv").html(output.join("\n"));
   }
 });
