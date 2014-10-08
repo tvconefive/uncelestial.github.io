@@ -13,7 +13,6 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
 <script type="text/javascript" src="http://uncelestial.tumblr.com/api/read/json"></script>
 <script language="javascript">
 $(document).ready(function(){
-  <a class="post_control reblog" target="_blank" title="Reblog" href="/reblog/99470949970/Fs6EQBgU?redirect_to=%2Fblog%2Funcelestial" data-subview="reblog"><span class="offscreen">Reblog</span></a>
   var output = new Array();
   for(i=0;i<tumblr_api_read['posts'].length;i++){
     output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['regular-title'] + '</a></h3>');
