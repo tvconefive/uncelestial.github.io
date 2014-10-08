@@ -17,7 +17,7 @@ $(document).ready(function(){
   for(i=0;i<tumblr_api_read['posts'].length;i++){
     output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['regular-title'] + '</a></h3>');
     output.push(tumblr_api_read['posts'][i]['regular-body']);
-    output.push('<p style="font-size: 14px">Posted to <a href="http://uncelestial.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a></p>')
+    output.push('<p style="font-size: 14px">Posted to <a href="http://uncelestial.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/uncelestial">Follow on Tumblr</a></p>')
     $("#blogdiv").html(output.join("\n"));
   }
 });
