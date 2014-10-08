@@ -7,6 +7,13 @@
 #socialstuff li {
   width: 300px;
 }
+.socialdescription {
+  font-size: 11px;
+  margin-left: 3px;
+  line-height: normal;
+  font-family: Arial;
+  margin-bottom: 5px;
+}
 @media screen and (max-width: 600px) {
   #socialstuff {
     display: none;
