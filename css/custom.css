@@ -3,8 +3,13 @@
   padding: 20px;
   width: 162px;
 }
+#twitch {
+  float: right;
+  padding: 20px;
+  width: 320px;
+}
 @media screen and (max-width: 600px) {
-  #socialstuff {
+  #socialstuff, #twitch {
     display: none;
   }
 }
