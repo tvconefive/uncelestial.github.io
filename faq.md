@@ -5,16 +5,7 @@ description: Maybe this will get me out of having to do interviews.
 
 ## FAQ (Fan-Asked Questions)
 
-Here is an archive of fan-asked questions and their answers. Got one? Ask it on Twitter [@uncelestial](http://www.twitter.com/uncelestial).
+This section is powered by our subreddit. If there's anything you wanna ask us, go ahead and
+post your question at [uncelestial.reddit.com](http://uncelestial.reddit.com).
 
-### Uncelestial. Why so many syllables?
-
-I can't help it.
-
-### WTF!
-
-I know right?
-
-### wow
-
-I guess.
+<script src="http://www.reddit.com/r/uncelestial/hot/.embed?limit=5&t=all&expanded=1" type="text/javascript"></script>
