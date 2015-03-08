@@ -15,9 +15,18 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
 $(document).ready(function(){
   var output = new Array();
   for(i=0;i<tumblr_api_read['posts'].length;i++){
+    if (tumblr_api_read['posts'][i]["type"]=="video") 
+    {
+      // video post
+      output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['video-caption'] + '</a></h3>');
+      output.push(tumblr_api_read['posts'][i]['video-player']);
+    } else {
+      // regular post
     output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['regular-title'] + '</a></h3>');
     output.push(tumblr_api_read['posts'][i]['regular-body']);
+    }
     output.push('<p style="font-size: 14px">Posted to <a href="http://uncelestial.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/uncelestial">Follow on Tumblr</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + '?redirect_to=%2Fblog%2Funcelestial">Reblog Post</a></p>')
+    
     $("#blogdiv").html(output.join("\n"));
   }
 });
