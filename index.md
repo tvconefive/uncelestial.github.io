@@ -25,6 +25,11 @@ $(document).ready(function(){
       // photo post
       output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['photo-caption'].replace("<p>","").replace("</p>","") + '</a></h3>');
       output.push('<a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '"><img src="' + tumblr_api_read['posts'][i]['photo-url-400'] + '" border="0"></a>');
+    } else if (tumblr_api_read['posts'][i]["type"]=="audio")
+    {
+      // audio post
+      output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['audio-caption'].replace("<p>","").replace("</p>","") + '</a></h3>');
+      output.push(tumblr_api_read['posts'][i]['audio-player']);
     } else {
       // regular post
     output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['regular-title'] + '</a></h3>');
