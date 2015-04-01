@@ -8,7 +8,7 @@ social: yes
 ## Welcome
 
 Uncelestial is a band from San Francisco. This is their official site. If you're looking 
-to get acquainted quickly, try reading the [bio](/about) or watching some [videos](/videos)
+to get acquainted quickly, try reading the [bio](/about) or watching some [videos](/videos). Please tweet them some genitals.
 
 <script type="text/javascript" src="http://uncelestial.tumblr.com/api/read/json"></script>
 <script language="javascript">
